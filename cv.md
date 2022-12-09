@@ -5,8 +5,10 @@
 
 ## **Contact information:**
 
-**Phone:** +3800681763955
-**Email:** dehtiaruk@gmail.com
+**Phone:** +3800681763955  
+
+**Email:** dehtiaruk@gmail.com  
+
 **Telegram:** @glivi
 
 ===============================
@@ -34,16 +36,16 @@ and an additional source of income.
 
 **HTML:**
 ```
-	<section class="hero">
-		<div class="hero__container">
-			<div class="hero__info">
-				<h1 class="hero__title">Парковочные решения</h1>
-				<ul class="hero__list">
-					<li class="hero__item">
-						<div class="hero__icon">
-							<img src="@img/hero/icon-1.svg" alt="">
-						</div>
-						<p class="hero__text">Контроль проезда</p>
+  <section class="hero">
+    <div class="hero__container">
+      <div class="hero__info">
+  	<h1 class="hero__title">Парковочные решения</h1>
+  	<ul class="hero__list">
+  	  <li class="hero__item">
+  	    <div class="hero__icon">
+  	      <img src="@img/hero/icon-1.svg" alt="">
+  	    </div>
+  	    <p class="hero__text">Контроль проезда</p>
 ```
 ------------------------
 **SCSS:**
