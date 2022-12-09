@@ -33,7 +33,7 @@ and an additional source of income.
 ## **Code example:**
 
 **HTML:**
-'''
+```
 	<section class="hero">
 		<div class="hero__container">
 			<div class="hero__info">
@@ -44,10 +44,10 @@ and an additional source of income.
 							<img src="@img/hero/icon-1.svg" alt="">
 						</div>
 						<p class="hero__text">Контроль проезда</p>
-'''
+```
 ------------------------
 **SCSS:**
-'''
+```
 .hero {
 	position: relative;
 	@include adaptiveValue("padding-top", 110, 80, 0, 1280, 1024);
@@ -60,7 +60,7 @@ and an additional source of income.
 	&__container {
 		position: relative;
 	}           
-'''
+```
             
 =====================================================================
             
